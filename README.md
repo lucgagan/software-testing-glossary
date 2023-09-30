@@ -4,15 +4,15 @@ This glossary aims to be the most comprehensive compilation of software testing 
 
 Raise a PR to make contribute changes. Modifications will be submitted back upstream to https://ray.run/glossary.
 
-## [A/B Testing](https://ray.run/glossary#ab-testing) [🔗](https://en.wikipedia.org/wiki/A/B_testing)
+## [A/B Testing](https://ray.run/glossary#ab-testing)  [🔗](https://en.wikipedia.org/wiki/A/B_testing)
 
 A/B testing involves creating one or more variants of a webpage to compare against the current version. The goal is to determine which version performs best based on specific metrics, such as revenue per visitor or conversion rate.
 
-## [Acceptance Test Driven Development](https://ray.run/glossary#acceptance-test-driven-development) [🔗](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+## [Acceptance Test Driven Development](https://ray.run/glossary#acceptance-test-driven-development)  [🔗](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
 
 Acceptance Test Driven Development (ATDD) is a development approach aimed at reducing defects by integrating testing as a core component of the development process. This ensures that the application meets quality standards.
 
-## [Acceptance Testing](https://ray.run/glossary#acceptance-testing) [🔗](https://en.wikipedia.org/wiki/Acceptance_testing)
+## [Acceptance Testing](https://ray.run/glossary#acceptance-testing)  [🔗](https://en.wikipedia.org/wiki/Acceptance_testing)
 
 Acceptance testing is conducted by potential end-users or customers to determine if the software meets the required specifications and is suitable for its intended use.
 
@@ -28,11 +28,11 @@ The actual result is the outcome obtained after a test is conducted. During the 
 
 Ad hoc testing is an informal, spontaneous approach to software testing. Its main objective is to identify vulnerabilities or issues as quickly as possible. This method is unstructured, conducted without detailed planning or documentation.
 
-## [Agile Development](https://ray.run/glossary#agile-development) [🔗](https://en.wikipedia.org/wiki/Agile_software_development)
+## [Agile Development](https://ray.run/glossary#agile-development)  [🔗](https://en.wikipedia.org/wiki/Agile_software_development)
 
 Agile software development is an iterative method where requirements and solutions are collaboratively developed by cross-functional teams. It emphasizes adaptability and responsiveness over rigid planning.
 
-## [Agile Testing](https://ray.run/glossary#agile-testing) [🔗](https://en.wikipedia.org/wiki/Agile_testing)
+## [Agile Testing](https://ray.run/glossary#agile-testing)  [🔗](https://en.wikipedia.org/wiki/Agile_testing)
 
 Agile testing aligns with the principles of Agile software development. Unlike traditional approaches, testing starts at the project's outset with development and testing occurring simultaneously. This close collaboration ensures tasks are accomplished efficiently.
 
@@ -44,7 +44,7 @@ Alpha testing aims to identify bugs before the product reaches the end-users. Co
 
 Analytical test strategies involve analyzing the test basis before executing the test. This strategy helps pinpoint potential problems early on, ensuring a more effective testing process.
 
-## [API](https://ray.run/glossary#api) [🔗](https://en.wikipedia.org/wiki/API)
+## [API](https://ray.run/glossary#api)  [🔗](https://en.wikipedia.org/wiki/API)
 
 An Application Programming Interface (API) is a set of rules allowing two applications to communicate. The term "Application" in this context denotes any software with a specific function. The API defines how these applications send and receive requests and responses.
 
@@ -52,11 +52,11 @@ An Application Programming Interface (API) is a set of rules allowing two applic
 
 API testing involves verifying and validating an API's performance, functionality, reliability, and security. The process includes sending requests to the API and analyzing its responses to ensure they meet expected outcomes. This testing can be done manually or using automated tools, helping identify issues like invalid inputs, poor error handling, and unauthorized access.
 
-## [ASTQB](https://ray.run/glossary#astqb)  [🌐](https://astqb.org/)
+## [ASTQB](https://ray.run/glossary#astqb) [🌐](https://astqb.org/)
 
 The American Software Testing Qualifications Board (ASTQB) is the U.S. national board for the International Software Testing Qualifications Board (ISTQB). It's responsible for the "ISTQB Certified Tester" program in the U.S. The ASTQB provides and manages certifications, accredits trainers, and approves training materials for software testing professionals. Earning an ISTQB certification through ASTQB ensures that an individual meets internationally recognized standards in software testing. Additionally, ASTQB promotes the value and importance of software testing as a profession within the U.S. software development and IT industries.
 
-## [Automated Testing](https://ray.run/glossary#automated-testing) [🔗](https://en.wikipedia.org/wiki/Test_automation)
+## [Automated Testing](https://ray.run/glossary#automated-testing)  [🔗](https://en.wikipedia.org/wiki/Test_automation)
 
 Automated testing uses scripts to conduct repetitive tasks, increasing software performance and testing efficiency. It enhances test coverage and execution speed, making the software testing process more effective.
 
@@ -76,7 +76,7 @@ Backward Compatibility, in the context of software testing, refers to the abilit
 
 Baseline Testing is a type of non-functional testing where the performance or characteristics of a system or application are measured under specific conditions. This initial measurement serves as a "baseline" or benchmark against which future performance levels can be compared. The primary goal of baseline testing is to understand the current behavior of the system and set a standard for subsequent testing phases. Any deviations in future tests from this baseline can indicate performance issues, regressions, or other anomalies that might need addressing.
 
-## [BDD](https://ray.run/glossary#bdd) [🔗](https://en.wikipedia.org/wiki/Behavior-driven_development)
+## [BDD](https://ray.run/glossary#bdd)  [🔗](https://en.wikipedia.org/wiki/Behavior-driven_development)
 
 BDD (Behavior-Driven Development) is an agile software development approach that emphasizes collaboration between developers, testers, and domain experts. It focuses on understanding and defining the desired behavior of a system from the user's perspective. BDD encourages the use of simple, plain-language descriptions of software behavior, often structured as "Given-When-Then" scenarios. These descriptions serve as both requirements documentation and a basis for automated tests, ensuring that software development is aligned with user needs and expectations.
 
@@ -88,7 +88,7 @@ Beta testing is the final testing phase before product release, where a near-com
 
 Big Bang Testing is an approach where all system units are linked simultaneously without regard for their interactions. This method can make error isolation challenging as it requires focusing on the interfaces of individual units.
 
-## [Black Box Testing](https://ray.run/glossary#black-box-testing) [🔗](https://en.wikipedia.org/wiki/Black-box_testing)
+## [Black Box Testing](https://ray.run/glossary#black-box-testing)  [🔗](https://en.wikipedia.org/wiki/Black-box_testing)
 
 Black box testing assesses software without considering its internal workings. Typically focused on functional or acceptance testing, it can be done by anyone, regardless of their familiarity with the codebase.
 
@@ -100,7 +100,7 @@ Bottom-up integration testing starts by testing lower-level modules first, then 
 
 Evaluates software by focusing on the boundary or edge values of the input domain.
 
-## [BrowserStack](https://ray.run/glossary#browserstack) [🔗](https://en.wikipedia.org/wiki/BrowserStack) [🌐](https://www.browserstack.com/)
+## [BrowserStack](https://ray.run/glossary#browserstack) [🌐](https://www.browserstack.com/) [🔗](https://en.wikipedia.org/wiki/BrowserStack)
 
 BrowserStack is a cloud-based web and mobile testing platform that allows developers and testers to view and interact with their websites and applications across multiple browsers, operating systems, and real mobile devices without the need for an internal lab of virtual machines or devices. It provides instant access to a wide range of browser and OS combinations, ensuring that developers can test their products in real-world conditions. This helps in identifying and resolving compatibility issues that might not be evident on a single platform or browser. BrowserStack is particularly beneficial for ensuring cross-browser and cross-platform compatibility, and it integrates with many popular continuous integration tools to streamline the testing process.
 
@@ -108,7 +108,7 @@ BrowserStack is a cloud-based web and mobile testing platform that allows develo
 
 BS 7925-2 is a standard for Software Component Testing. It outlines a process for component testing using specific test designs and measurement techniques, aiming to enhance the quality of both testing and software products.
 
-## [Bug](https://ray.run/glossary#bug) [🔗](https://en.wikipedia.org/wiki/Software_bug)
+## [Bug](https://ray.run/glossary#bug)  [🔗](https://en.wikipedia.org/wiki/Software_bug)
 
 A bug is an error or fault in a program that leads to incorrect outcomes or crashes. It arises from flawed or incomplete logic and can cause the software to deviate from its expected performance.
 
@@ -120,7 +120,7 @@ Build Verification Testing (BVT) is a set of preliminary tests performed on a ne
 
 Canary Testing is a technique used to detect issues by gradually releasing changes or updates to a subset of users. Often paired with A/B testing, it enables developers to evaluate and refine features based on feedback before a full release.
 
-## [Chai.js](https://ray.run/glossary#chaijs)  [🌐](https://www.chaijs.com/)
+## [Chai.js](https://ray.run/glossary#chaijs) [🌐](https://www.chaijs.com/)
 
 Chai.js, often simply referred to as Chai, is a BDD/TDD (Behavior-Driven Development/Test-Driven Development) assertion library for Node.js and browsers. It pairs seamlessly with popular JavaScript testing frameworks, such as Mocha and Jasmine. Chai provides developers with the capability to express assertions in a readable language, mimicking natural language constructions.
 
@@ -132,7 +132,7 @@ Change Control, in the context of software testing, refers to a formal process u
 
 Change requests originate from stakeholders wishing to alter a product or its development method. They can range from defect reports to requests for new features or enhancements.
 
-## [Chaos Engineering](https://ray.run/glossary#chaos-engineering) [🔗](https://en.wikipedia.org/wiki/Chaos_engineering)
+## [Chaos Engineering](https://ray.run/glossary#chaos-engineering)  [🔗](https://en.wikipedia.org/wiki/Chaos_engineering)
 
 Chaos engineering tests a software's resilience by introducing random faults and disruptions. This method challenges applications in unpredictable ways, aiming to uncover unanticipated flaws and weaknesses.
 
@@ -144,7 +144,7 @@ A clean slate refers to the practice of resetting a system, application, or envi
 
 The Capability Maturity Model Integration (CMMI) is a collection of best practices in engineering, service delivery, and management. It aids organizations in enhancing their delivery capabilities, ensuring customer satisfaction through continuous improvement.
 
-## [Code Coverage](https://ray.run/glossary#code-coverage) [🔗](https://en.wikipedia.org/wiki/Code_coverage)
+## [Code Coverage](https://ray.run/glossary#code-coverage)  [🔗](https://en.wikipedia.org/wiki/Code_coverage)
 
 Code coverage measures the extent of code that has been tested, assisting in evaluating the test suite's quality. It identifies areas not executed during testing and is a form of white box testing.
 
@@ -164,11 +164,11 @@ Examines the paths that a program takes during its execution flow.
 
 Ensures web applications function correctly across various web browsers.
 
-## [Cypress](https://ray.run/glossary#cypress) [🔗](https://en.wikipedia.org/wiki/Cypress_(software)) [🌐](https://www.cypress.io/)
+## [Cypress](https://ray.run/glossary#cypress) [🌐](https://www.cypress.io/) [🔗](https://en.wikipedia.org/wiki/Cypress_(software))
 
 Cypress is an end-to-end testing framework designed for modern web applications. Unlike many other testing solutions, Cypress operates directly within the web browser, ensuring more consistent and accurate real-world testing scenarios. It provides a rich set of features and tools for writing tests, debugging in real time, and capturing screenshots or video recordings of test runs. Cypress supports both unit testing and full end-to-end testing, making it a versatile choice for developers and QA professionals. One of its notable features is its interactive test runner that allows developers to see commands as they execute while also viewing the application under test. Built on top of technologies like Mocha, Chai, and Sinon, Cypress offers a comprehensive and user-friendly environment for web application testing.
 
-## [Database](https://ray.run/glossary#database) [🔗](https://en.wikipedia.org/wiki/Database)
+## [Database](https://ray.run/glossary#database)  [🔗](https://en.wikipedia.org/wiki/Database)
 
 A database is an organized collection of structured information or data, typically stored electronically in a computer system. It is designed to store, retrieve, and manage data efficiently and securely. Databases allow users to access data in various ways, from simple queries to complex transactions. They can be classified based on their data model, such as relational, document-based, key-value, and graph databases. A relational database, one of the most common types, organizes data into tables with rows and columns. Databases are integral to numerous applications and systems, from websites to banking software, ensuring data integrity, availability, and consistency. They are managed using database management systems (DBMS), which provide tools and interfaces for interacting with the stored data.
 
@@ -216,7 +216,7 @@ In software testing, Entry Criteria refer to the set of predefined conditions or
 
 Equivalence Partitioning is a software testing technique used to reduce the number of test cases by dividing the input data of a software unit into partitions of equivalent data. Instead of testing every possible input, equivalence partitioning proposes that test cases can be designed for representative values from each partition. The underlying principle is that if the software behaves correctly for one value in a partition, it will behave correctly for all other values in the same partition, and vice versa.
 
-## [Error Guessing](https://ray.run/glossary#error-guessing) [🔗](https://en.wikipedia.org/wiki/Error_guessing)
+## [Error Guessing](https://ray.run/glossary#error-guessing)  [🔗](https://en.wikipedia.org/wiki/Error_guessing)
 
 Error Guessing is a software testing technique where the tester, relying on their experience, intuition, and knowledge of the system, tries to predict where defects might occur. Instead of following a systematic testing approach or predefined test cases, testers make educated guesses to identify potential problem areas or scenarios where the software might fail. The technique is based on the tester's familiarity with common errors, past defects, or specific system behavior. Error guessing is often used as a supplementary testing method, complementing more structured techniques, and is particularly effective in identifying unique or unanticipated issues.
 
@@ -228,7 +228,7 @@ The anticipated outcome when a specific test case runs.
 
 Exploratory testing is a dynamic process where test design and test execution happen simultaneously. It leverages the tester's experience and is especially useful under tight time constraints.
 
-## [Extreme Programming](https://ray.run/glossary#extreme-programming) [🔗](https://en.wikipedia.org/wiki/Extreme_programming)
+## [Extreme Programming](https://ray.run/glossary#extreme-programming)  [🔗](https://en.wikipedia.org/wiki/Extreme_programming)
 
 Extreme Programming (XP) is an agile software development method. Unlike Scrum which targets project management, XP emphasizes software development best practices.
 
@@ -236,11 +236,11 @@ Extreme Programming (XP) is an agile software development method. Unlike Scrum w
 
 Failover Testing is a specific type of testing that evaluates a system's ability to automatically transfer control to a backup system or component when a failure occurs. The primary objective of failover testing is to ensure that, in the event of system or component malfunction, the failover process happens seamlessly without data loss or significant downtime. This test helps in validating the system's high availability and fault tolerance capabilities, ensuring that mission-critical applications remain operational even under unplanned adverse conditions. Failover testing is crucial for systems that require high availability, such as financial transaction systems, healthcare applications, and data centers.
 
-## [False Negative](https://ray.run/glossary#false-negative) [🔗](https://en.wikipedia.org/wiki/False_positives_and_false_negatives)
+## [False Negative](https://ray.run/glossary#false-negative)  [🔗](https://en.wikipedia.org/wiki/False_positives_and_false_negatives)
 
 In software testing, a False Negative refers to a situation where a test fails to identify a defect or issue that is actually present in the system. In other words, the test incorrectly indicates that the software is functioning correctly when, in reality, there's a fault or bug. False negatives can give a false sense of security, leading teams to believe the software is of higher quality than it actually is. This type of error is particularly concerning because it might allow critical defects to go unnoticed and reach the production environment, potentially resulting in undesired consequences for users or businesses.
 
-## [False Positive](https://ray.run/glossary#false-positive) [🔗](https://en.wikipedia.org/wiki/False_positives_and_false_negatives)
+## [False Positive](https://ray.run/glossary#false-positive)  [🔗](https://en.wikipedia.org/wiki/False_positives_and_false_negatives)
 
 In software testing, a False Positive refers to a situation where a test incorrectly identifies a defect or issue in the software when, in reality, there isn't one. Essentially, it's a test indicating a problem where none exists. False positives can arise due to various reasons, such as incorrect test data, flawed test conditions, or misconfigurations in the testing environment. While they might seem harmless, false positives can be detrimental as they can lead to wasted effort, resources, and time for development teams, potentially diverting attention away from genuine issues. Thus, it's essential to validate and rectify such occurrences to maintain the efficiency and accuracy of the testing process.
 
@@ -248,7 +248,7 @@ In software testing, a False Positive refers to a situation where a test incorre
 
 Factory Acceptance Testing (FAT) confirms that newly manufactured equipment operates as intended and fulfills the customer's requirements.
 
-## [Fault Injection Testing](https://ray.run/glossary#fault-injection-testing) [🔗](https://en.wikipedia.org/wiki/Fault_injection)
+## [Fault Injection Testing](https://ray.run/glossary#fault-injection-testing)  [🔗](https://en.wikipedia.org/wiki/Fault_injection)
 
 Introducing faults deliberately to test the system's robustness.
 
@@ -276,7 +276,7 @@ Functional testing checks if a software application's functions align with its r
 
 Future-proof testing ensures a software application can adapt to future technological changes without extensive modification.
 
-## [Fuzz Testing](https://ray.run/glossary#fuzz-testing) [🔗](https://en.wikipedia.org/wiki/Fuzzing)
+## [Fuzz Testing](https://ray.run/glossary#fuzz-testing)  [🔗](https://en.wikipedia.org/wiki/Fuzzing)
 
 Fuzz Testing is a dynamic software testing technique that involves providing a system with random, malformed, or unexpected input data to identify vulnerabilities and weaknesses. The goal of fuzz testing is to trigger errors, crashes, memory leaks, or other unforeseen behaviors in the software, which can then be analyzed to find potential security threats or software defects. It's especially effective for uncovering issues that might be exploited by malicious attacks, such as buffer overflows or data injection vulnerabilities. Fuzzing is commonly used in security testing and is considered a proactive measure to enhance software robustness and reliability.
 
@@ -285,7 +285,7 @@ Fuzz Testing is a dynamic software testing technique that involves providing a s
 
 Gherkin is a domain-specific language used primarily for behavior-driven development (BDD). It provides a structured and human-readable format to describe and document the desired behavior of software features. Gherkin's syntax uses plain language combined with specific keywords—such as "Given," "When," "Then," "And," and "But"—to define preconditions, actions, and expected outcomes. These Gherkin scenarios can then be utilized as both specifications for the system's behavior and the foundation for automated tests, making it a bridge between non-technical stakeholders and the technical team.
 
-## [Glass Box Testing](https://ray.run/glossary#glass-box-testing) [🔗](https://en.wikipedia.org/wiki/White-box_testing)
+## [Glass Box Testing](https://ray.run/glossary#glass-box-testing)  [🔗](https://en.wikipedia.org/wiki/White-box_testing)
 
 Glass box testing inspects a program's structure and formulates test data based on its logic.
 
@@ -293,11 +293,11 @@ Glass box testing inspects a program's structure and formulates test data based 
 
 Intense testing of a specific module or feature, often by a tester or developer.
 
-## [Grey Box Testing](https://ray.run/glossary#grey-box-testing) [🔗](https://en.wikipedia.org/wiki/Gray-box_testing)
+## [Grey Box Testing](https://ray.run/glossary#grey-box-testing)  [🔗](https://en.wikipedia.org/wiki/Gray-box_testing)
 
 Grey box testing involves testing an application with partial knowledge of its internal workings. It aims to identify issues stemming from the code structure or its application.
 
-## [Happy Path](https://ray.run/glossary#happy-path) [🔗](https://en.wikipedia.org/wiki/Happy_path)
+## [Happy Path](https://ray.run/glossary#happy-path)  [🔗](https://en.wikipedia.org/wiki/Happy_path)
 
 The "happy path" refers to the default scenario in which a system or application operates without any errors, exceptions, or unexpected user behavior. It represents the most straightforward and trouble-free journey through a given system or process, resulting in a successful outcome. When testing software, the happy path ensures that the core functionalities work as expected under optimal conditions. However, while it's essential to verify that the happy path operates correctly, comprehensive testing also requires examining edge cases, exceptions, and potential error scenarios to ensure robustness and reliability.
 
@@ -366,19 +366,19 @@ The International Software Testing Qualifications Board, a non-profit that certi
 
 Iterative testing involves periodically updating a product based on previous feedback and then testing the changes against set benchmarks.
 
-## [Jasmine](https://ray.run/glossary#jasmine) [🔗](https://en.wikipedia.org/wiki/Jasmine_(software)) [🌐](https://jasmine.github.io/)
+## [Jasmine](https://ray.run/glossary#jasmine) [🌐](https://jasmine.github.io/) [🔗](https://en.wikipedia.org/wiki/Jasmine_(software))
 
 Jasmine is an open-source testing framework for JavaScript. It is designed to be behavior-driven, allowing developers to write tests in a way that describes the expected behavior of the software in clear, human-readable terms. Jasmine provides functions to structure your tests, set up preconditions, and define assertions.
 
-## [Jest](https://ray.run/glossary#jest) [🔗](https://jestjs.io/)
+## [Jest](https://ray.run/glossary#jest)  [🔗](https://jestjs.io/)
 
 Jest is a JavaScript unit testing framework by Meta. It's primarily used for writing unit tests to assess individual code segments.
 
-## [Jira](https://ray.run/glossary#jira) [🔗](https://en.wikipedia.org/wiki/Jira_(software)) [🌐](https://www.atlassian.com/software/jira)
+## [Jira](https://ray.run/glossary#jira) [🌐](https://www.atlassian.com/software/jira) [🔗](https://en.wikipedia.org/wiki/Jira_(software))
 
 Jira is a popular software developed by Atlassian, primarily used for bug tracking, issue tracking, and project management. Originating as a tool for software development teams to track defects and tasks, Jira has since evolved to cater to various business functions with customizable workflows, real-time collaboration, and integration capabilities. It allows teams to create, prioritize, and assign work items, such as stories or bugs, and then track their progress through different stages. Jira supports Agile methodologies like Scrum and Kanban, offering features like boards, backlogs, and sprints. Its versatility and extensive plugin ecosystem make it suitable for a wide range of use cases beyond just software development.
 
-## [JMeter](https://ray.run/glossary#jmeter) [🔗](https://en.wikipedia.org/wiki/Apache_JMeter) [🌐](https://jmeter.apache.org/)
+## [JMeter](https://ray.run/glossary#jmeter) [🌐](https://jmeter.apache.org/) [🔗](https://en.wikipedia.org/wiki/Apache_JMeter)
 
 JMeter, officially known as Apache JMeter, is an open-source software application developed by the Apache Software Foundation. It is designed for load testing and performance measurement of web applications, but its capabilities extend beyond web protocols. JMeter allows users to simulate multiple users with concurrent threads, create a variety of requests to servers, and analyze the performance of applications under different load conditions.
 
@@ -392,11 +392,11 @@ JUnit is a Java testing framework enabling developers to craft and run automated
 
 Keyword driven testing is a functional testing approach where test case design is separated from its execution. Keywords represent user actions on test objects, making test cases clearer and more maintainable.
 
-## [Lighthouse](https://ray.run/glossary#lighthouse) [🔗](https://en.wikipedia.org/wiki/Google_Lighthouse)
+## [Lighthouse](https://ray.run/glossary#lighthouse)  [🔗](https://en.wikipedia.org/wiki/Google_Lighthouse)
 
 Lighthouse is an open-source, automated tool developed by Google for improving the quality of web pages. It provides audits for performance, accessibility, progressive web apps, SEO, and other aspects of web page quality. By running Lighthouse against a web page, developers and testers can obtain a set of actionable recommendations and insights that help in optimizing the user experience and overall effectiveness of the website.
 
-## [Load Testing](https://ray.run/glossary#load-testing) [🔗](https://en.wikipedia.org/wiki/Load_testing)
+## [Load Testing](https://ray.run/glossary#load-testing)  [🔗](https://en.wikipedia.org/wiki/Load_testing)
 
 Load Testing evaluates how a system, software, or application behaves under multiple concurrent users. It mimics real-life conditions to determine system performance.
 
@@ -448,7 +448,7 @@ Mutation testing evaluates the quality of software tests. It involves creating s
 
 Negative testing verifies an application's ability to handle incorrect input, comparing expected outcomes with actual results.
 
-## [Node.js](https://ray.run/glossary#nodejs) [🔗](https://en.wikipedia.org/wiki/Node.js) [🌐](https://nodejs.org/)
+## [Node.js](https://ray.run/glossary#nodejs) [🌐](https://nodejs.org/) [🔗](https://en.wikipedia.org/wiki/Node.js)
 
 Node.js is an open-source, cross-platform JavaScript runtime environment that allows developers to execute JavaScript code server-side. Traditionally, JavaScript was primarily used for client-side scripting in web browsers. Node.js, however, enables JavaScript to be used for building scalable network applications outside the browser. Built on Chrome's V8 JavaScript engine, Node.js is designed for building fast and efficient web applications, especially I/O-bound applications.
 
@@ -456,7 +456,7 @@ Node.js is an open-source, cross-platform JavaScript runtime environment that al
 
 Non-functional testing evaluates software's non-functional attributes, such as usability and performance, ensuring the software's overall competence and effectiveness.
 
-## [NUnit](https://ray.run/glossary#nunit) [🔗](https://en.wikipedia.org/wiki/NUnit) [🌐](https://nunit.org/)
+## [NUnit](https://ray.run/glossary#nunit) [🌐](https://nunit.org/) [🔗](https://en.wikipedia.org/wiki/NUnit)
 
 NUnit is an open-source unit testing framework for C# derived from JUnit. It facilitates writing and executing tests in .NET, with tools like NUnit-console.exe for batch test executions.
 
@@ -492,7 +492,7 @@ Assesses the distinct paths software can take during its execution.
 
 Peer testing involves team members evaluating each other's work, ensuring code consistency and pursuing shared goals.
 
-## [Penetration Testing](https://ray.run/glossary#penetration-testing) [🔗](https://en.wikipedia.org/wiki/Penetration_test)
+## [Penetration Testing](https://ray.run/glossary#penetration-testing)  [🔗](https://en.wikipedia.org/wiki/Penetration_test)
 
 Penetration Testing is a cybersecurity practice where trained professionals simulate cyberattacks on a system, network, or application to identify vulnerabilities that could be exploited by malicious actors. The primary objective of penetration testing is to discover security weaknesses from an attacker's perspective, thereby allowing organizations to better understand potential risks and take corrective actions before real-world malicious attacks occur. Penetration tests can be manual or automated and are often categorized by their scope and the knowledge level of the tester, such as black box (tester has limited knowledge about the system) or white box (tester has complete knowledge about the system).
 
@@ -504,7 +504,7 @@ A performance indicator or KPI is a metric testers use to measure the efficacy a
 
 Performance testing gauges a product's capability and responsiveness under varying workloads, predicting how it would manage future demands.
 
-## [Playwright](https://ray.run/glossary#playwright)  [🌐](https://playwright.dev/)
+## [Playwright](https://ray.run/glossary#playwright) [🌐](https://playwright.dev/)
 
 Playwright is an open-source testing framework developed by Microsoft for end-to-end testing of web applications. It enables automated browser testing across multiple browsers, including Chrome, Firefox, and WebKit. With Playwright, testers and developers can write scripts that interact with web pages in a manner similar to real users, performing actions like clicking buttons, filling forms, and navigating between pages.
 
@@ -512,7 +512,7 @@ Playwright is an open-source testing framework developed by Microsoft for end-to
 
 Postcondition is a condition that must hold true after a segment of code runs, often verified through code predicates.
 
-## [Postman](https://ray.run/glossary#postman) [🔗](https://en.wikipedia.org/wiki/Postman_(software)) [🌐](https://www.postman.com/)
+## [Postman](https://ray.run/glossary#postman) [🌐](https://www.postman.com/) [🔗](https://en.wikipedia.org/wiki/Postman_(software))
 
 Postman is a widely-used software tool that facilitates API (Application Programming Interface) development and testing. It offers a user-friendly interface that allows developers and testers to send requests to and receive responses from web services. With Postman, users can create, save, and organize HTTP requests, test APIs by sending various request types (GET, POST, PUT, DELETE, etc.), and inspect the responses. Additional features include the ability to automate tests, create mock servers, and document APIs. Postman also provides collaboration capabilities for teams, enabling them to share collections of requests, environments, and other data. Over time, Postman has evolved from a simple API testing tool into a comprehensive API development environment.
 
@@ -524,7 +524,7 @@ Priority denotes the order or significance of an issue based on user needs, whil
 
 QA metrics are tools that developers use to enhance their product quality by refining testing processes, helping in identifying or forecasting product flaws.
 
-## [Quality Assurance](https://ray.run/glossary#quality-assurance) [🔗](https://en.wikipedia.org/wiki/Quality_assurance)
+## [Quality Assurance](https://ray.run/glossary#quality-assurance)  [🔗](https://en.wikipedia.org/wiki/Quality_assurance)
 
 Quality Assurance (QA) is a process ensuring the highest possible product or service quality. It emphasizes refining processes for consistent quality deliverables.
 
@@ -532,7 +532,7 @@ Quality Assurance (QA) is a process ensuring the highest possible product or ser
 
 Quality management ensures that an organization's products or services consistently meet a certain quality standard.
 
-## [Regression Testing](https://ray.run/glossary#regression-testing) [🔗](https://en.wikipedia.org/wiki/Regression_testing)
+## [Regression Testing](https://ray.run/glossary#regression-testing)  [🔗](https://en.wikipedia.org/wiki/Regression_testing)
 
 Regression testing checks if existing functionalities remain intact after new changes. It ensures that new additions don't disrupt existing software operations.
 
@@ -564,11 +564,11 @@ Reviewers are experts who evaluate code to detect bugs, enhance quality, and gui
 
 Prioritizes testing based on potential risk of feature or function failure.
 
-## [Robustness Testing](https://ray.run/glossary#robustness-testing) [🔗](https://en.wikipedia.org/wiki/Robustness_testing)
+## [Robustness Testing](https://ray.run/glossary#robustness-testing)  [🔗](https://en.wikipedia.org/wiki/Robustness_testing)
 
 Evaluates software's performance under extreme or unexpected inputs.
 
-## [RUP](https://ray.run/glossary#rup) [🔗](https://en.wikipedia.org/wiki/Rational_unified_process)
+## [RUP](https://ray.run/glossary#rup)  [🔗](https://en.wikipedia.org/wiki/Rational_unified_process)
 
 RUP, developed by Rational (an IBM division), is a software development process segmented into four phases: business modeling, analysis and design, implementation, testing, and deployment.
 
@@ -584,7 +584,7 @@ Scalability testing confirms if a software application can expand its non-functi
 
 Screenshot testing automates the assessment of a web page or application's visual elements by comparing current visuals with baseline images, identifying visual regressions and other discrepancies.
 
-## [Scrum](https://ray.run/glossary#scrum) [🔗](https://en.wikipedia.org/wiki/Scrum_(software_development)) [🌐](https://www.scrum.org/)
+## [Scrum](https://ray.run/glossary#scrum) [🌐](https://www.scrum.org/) [🔗](https://en.wikipedia.org/wiki/Scrum_(software_development))
 
 Scrum is an iterative and incremental Agile framework that facilitates collaboration among a cross-functional team to develop and deliver high-quality products. In Scrum, work is broken down into cycles called "sprints," typically lasting two to four weeks, during which a predetermined set of features are developed and tested. Key roles in Scrum include the Product Owner (who defines product requirements and prioritizes tasks), the Scrum Master (who ensures the team follows Scrum practices and principles), and the Development Team (which includes testers, developers, and other necessary roles). Regular ceremonies, such as Daily Stand-ups, Sprint Planning, Sprint Review, and Sprint Retrospective, ensure consistent communication and reflection on progress and processes. In the context of software testing, Scrum emphasizes the integration of testing throughout the sprint, ensuring that features are potentially shippable by the sprint's end.
 
@@ -592,7 +592,7 @@ Scrum is an iterative and incremental Agile framework that facilitates collabora
 
 Security Testing aims to reveal potential vulnerabilities in a software system which may lead to information loss, revenue reduction, or reputational damage.
 
-## [Selenium](https://ray.run/glossary#selenium) [🔗](https://en.wikipedia.org/wiki/Selenium_(software)) [🌐](https://www.selenium.dev/)
+## [Selenium](https://ray.run/glossary#selenium) [🌐](https://www.selenium.dev/) [🔗](https://en.wikipedia.org/wiki/Selenium_(software))
 
 Selenium is an open-source software suite of browser automation tools primarily used for automating web browsers in the context of web application testing. It provides a way for developers and testers to write scripts in various programming languages (such as Java, C#, Python, and Ruby) to simulate user interactions with web pages and web applications.
 
@@ -600,7 +600,7 @@ Selenium is an open-source software suite of browser automation tools primarily 
 
 Selenium IDE enhances your testing environment with tools for logging in, item searching, and UI interactions.
 
-## [Session-Based Testing](https://ray.run/glossary#session-based-testing) [🔗](https://en.wikipedia.org/wiki/Session-based_testing)
+## [Session-Based Testing](https://ray.run/glossary#session-based-testing)  [🔗](https://en.wikipedia.org/wiki/Session-based_testing)
 
 An organized form of exploratory testing conducted in sessions.
 
@@ -636,7 +636,7 @@ Software risk analysis inspects code violations that could compromise software s
 
 Software testing confirms that a software product or application functions correctly, achieves its intended goals, and is free of defects.
 
-## [SQL](https://ray.run/glossary#sql) [🔗](https://en.wikipedia.org/wiki/SQL)
+## [SQL](https://ray.run/glossary#sql)  [🔗](https://en.wikipedia.org/wiki/SQL)
 
 SQL (Structured Query Language) is a standardized programming language specifically designed for managing and manipulating relational databases. SQL is used to perform tasks such as querying data, updating data, inserting data, and deleting data from a database. It also involves creating and modifying schemas (database structures) and controlling access to data. SQL provides a consistent interface to relational database management systems (RDBMS) and is supported by most modern RDBMS platforms like MySQL, PostgreSQL, SQL Server, Oracle, and many others. Through SQL, users can define, retrieve, and manipulate data within the database efficiently and effectively.
 
@@ -660,7 +660,7 @@ Stress testing (Intrusive Testing) gauges the stability and resilience of a syst
 
 Structural Testing evaluates software code structure. Combining white-box and glass box testing, it is primarily done by developers to ensure system integrity rather than functionality.
 
-## [Swagger](https://ray.run/glossary#swagger)  [🌐](https://swagger.io/)
+## [Swagger](https://ray.run/glossary#swagger) [🌐](https://swagger.io/)
 
 Swagger, now often referred to as OpenAPI, is a set of tools and specifications for building, designing, and documenting RESTful APIs. It offers a standard, language-agnostic interface to RESTful APIs, allowing both humans and computers to understand the capabilities of a service without accessing its source code or further detailed documentation.
 
@@ -680,7 +680,7 @@ A test approach outlines the strategy for how testing will be conducted. It spec
 
 Test automation involves using tools to run tests and compare actual outcomes to expected results. These tools can streamline manual processes or integrate with continuous integration systems.
 
-## [Test Case](https://ray.run/glossary#test-case) [🔗](https://en.wikipedia.org/wiki/Test_case)
+## [Test Case](https://ray.run/glossary#test-case)  [🔗](https://en.wikipedia.org/wiki/Test_case)
 
 A test case is a detailed specification of test inputs, conditions, procedures, and expected outcomes. It ensures comprehensive program evaluation and identifies potential missed errors.
 
@@ -844,7 +844,7 @@ Tools designed for creating and executing unit tests, offering foundational stru
 
 The practice of testing individual software units or components to validate their functionality.
 
-## [Usability Testing](https://ray.run/glossary#usability-testing) [🔗](https://en.wikipedia.org/wiki/Usability_testing)
+## [Usability Testing](https://ray.run/glossary#usability-testing)  [🔗](https://en.wikipedia.org/wiki/Usability_testing)
 
 A qualitative research method providing insights into user interactions with software. It identifies usability issues and evaluates user-friendliness.
 
@@ -856,7 +856,7 @@ A description detailing how a user interacts with a system. It forms a foundatio
 
 A testing approach examining all potential user interactions with software. It is especially useful for assessing error-handling and system robustness.
 
-## [User Acceptance Testing](https://ray.run/glossary#user-acceptance-testing) [🔗](https://en.wikipedia.org/wiki/Acceptance_testing)
+## [User Acceptance Testing](https://ray.run/glossary#user-acceptance-testing)  [🔗](https://en.wikipedia.org/wiki/Acceptance_testing)
 
 A testing phase where the customer validates the software in its intended environment before release, ensuring alignment with their expectations.
 
@@ -872,7 +872,7 @@ Activities focused on ensuring software correctly implements specific functional
 
 Evaluation of the user interface after code changes. It checks for appearance and usability impacts, ensuring new changes don't disrupt existing functions.
 
-## [V-Model](https://ray.run/glossary#v-model) [🔗](https://en.wikipedia.org/wiki/V-model)
+## [V-Model](https://ray.run/glossary#v-model)  [🔗](https://en.wikipedia.org/wiki/V-model)
 
 A development model that aligns with the product's validation phase.
 
@@ -884,7 +884,7 @@ Challenges the system by subjecting it to large amounts of data.
 
 Programmatic operation of websites through test scripts and tools, replacing manual tasks to save time and reduce costs.
 
-## [WebDriver](https://ray.run/glossary#webdriver)  [🌐](https://www.selenium.dev/documentation/webdriver/)
+## [WebDriver](https://ray.run/glossary#webdriver) [🌐](https://www.selenium.dev/documentation/webdriver/)
 
 An open-source framework for browser automation, enabling automated tests for web pages across various browsers and operating systems.
 
@@ -904,6 +904,6 @@ A crucial evaluation for web developers, assessing the functionality, usability,
 
 Evaluation of software's internal coding and architecture. It emphasizes security, input-output flow, design, and usability.
 
-## [XPath Query](https://ray.run/glossary#xpath-query) [🔗](https://en.wikipedia.org/wiki/XPath)
+## [XPath Query](https://ray.run/glossary#xpath-query)  [🔗](https://en.wikipedia.org/wiki/XPath)
 
 A language designed to extract and manipulate XML document data. Useful for retrieving XML data for content scanning.
